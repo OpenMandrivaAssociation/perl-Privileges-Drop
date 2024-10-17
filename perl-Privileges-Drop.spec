@@ -8,7 +8,7 @@ Release:    3
 Summary:    A module to make it simple to drop all privileges, even 
 License:    GPL+ or Artistic
 Group:      Development/Perl
-Url:        http://search.cpan.org/~tlbdk/Privileges-Drop-1.03/
+Url:        https://search.cpan.org/~tlbdk/Privileges-Drop-1.03/
 Source0:    http://search.cpan.org/CPAN/authors/id/T/TL/TLBDK/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires: perl(Carp)
